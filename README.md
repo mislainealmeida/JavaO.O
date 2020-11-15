@@ -1,2 +1,2 @@
 # JavaO.O
- Projetos criados durante o curso de JavaOrientação a Objetos
+ Curso de Java Orientação a Objetos do loiane.training
